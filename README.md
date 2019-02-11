@@ -1,6 +1,7 @@
 # Funky-Charts
 
 Basic Chart Template
+
 -> Line chart
 -> Bar chart
 -> Scatter chart
